@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tatyanabolton
-- 👀 I’m interested in Data Analyst positions 
+- 👀 I’m interested in Data Scientist positions 
 
 
 
